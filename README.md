@@ -1,7 +1,7 @@
 # Smileyscript
 A Brainfuck interpreter that can read your code in smileys :)
 
-## How does it work? ##
+## How does it work?
 
 | Smileys | Brainfuck Equivalent              |
 |---------|-----------------------------------|
@@ -13,3 +13,9 @@ A Brainfuck interpreter that can read your code in smileys :)
 | :>      | > (Move the pointer to the right) |
 | :I      | , (Receive a single input)        |
 | :O      | . (Return a single output)        |
+
+## How to run?
+
+```
+SmileyScript.exe "Examples/hello.txt"
+```
