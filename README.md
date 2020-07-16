@@ -19,3 +19,6 @@ A Brainfuck interpreter that can read your code in smileys :)
 ```
 SmileyScript.exe "Examples/hello.txt"
 ```
+
+## Please note!
+This repository is extremely underdeveloped and may have bugs that are yet to be found.
