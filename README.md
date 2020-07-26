@@ -1,6 +1,17 @@
 # Smileyscript
 A Brainfuck interpreter that can read your code in smileys :)
 
+## "Hello World" in SmileyScript
+```
+:) :) :) :) :) :) :) :) :) :) :[ :> :) :) :) :) :) :) :) :>
+:) :) :) :) :) :) :) :) :) :) :> :) :) :) :> :) :< :< :< :<
+:( :] :> :) :) :O :> :) :O :) :) :) :) :) :) :) :O :O :) :)
+:) :O :> :) :) :O :< :< :) :) :) :) :) :) :) :) :) :) :) :)
+:) :) :) :O :> :O :) :) :) :O :( :( :( :( :( :( :O :( :( :(
+:( :( :( :( :( :O :> :) :O :> :O :> :) :) :) :) :) :) :) :)
+:) :) :) :) :) :) :O
+```
+
 ## How does it work?
 
 | Smileys | Brainfuck Equivalent              |
